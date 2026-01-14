@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aeseo21.github.io/Sante-et-bien-etre-fonctionnel-non-medical/sitemap.xml
