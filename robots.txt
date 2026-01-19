@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /search/
+Disallow: /temp/
+
+# Encourage le crawl fréquent
+Crawl-delay: 1 
 
 Sitemap: https://aeseo21.github.io/Sante-et-bien-etre-fonctionnel-non-medical/sitemap.xml
